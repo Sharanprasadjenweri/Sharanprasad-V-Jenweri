@@ -17,3 +17,7 @@ Languages and Tools
 - AI/ML Engineer
 - Data Analytics
 - Data Science
+
+# Contact
+- Kalaburagi , Karnataka
+- Email : sjenweri@gmail.com
