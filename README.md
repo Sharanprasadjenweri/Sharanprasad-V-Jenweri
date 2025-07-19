@@ -3,7 +3,6 @@
 I'm currently pursuing Diploma in Computer Science Engineering [CSE] at Govt Polytechnic college Kalaburagi.
 
 🎯 Passionate about building real-world solutions using code and creativity 
-
 📚 Excited to learn Computer science software principles and explore different programming languages like python,java,SQL,WEB DEV etc.
 
 # Skills
