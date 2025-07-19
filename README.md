@@ -1,4 +1,4 @@
-[1-267bacd2-b290-48d1-8e19-fa320e43446b.pdf](https://github.com/user-attachments/files/21328906/1-267bacd2-b290-48d1-8e19-fa320e43446b.pdf)#  Hi , I'm Sharanprasad V Jenweri
+#  Hi , I'm Sharanprasad V Jenweri
 
 I'm currently pursuing Diploma in Computer Science Engineering [CSE] at Govt Polytechnic college Kalaburagi.
 
