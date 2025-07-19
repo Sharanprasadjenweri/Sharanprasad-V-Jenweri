@@ -1,4 +1,4 @@
-#  Hi , I'm Sharanprasad V Jenweri
+[1-267bacd2-b290-48d1-8e19-fa320e43446b.pdf](https://github.com/user-attachments/files/21328906/1-267bacd2-b290-48d1-8e19-fa320e43446b.pdf)#  Hi , I'm Sharanprasad V Jenweri
 
 I'm currently pursuing Diploma in Computer Science Engineering [CSE] at Govt Polytechnic college Kalaburagi.
 
@@ -24,5 +24,7 @@ Languages and Tools
 
 # Certificates
 - Infosys Springboard Python Course
-- [Infosys Course completion certificate](./
-- Infosys Course completion certificate.pdf)
+- [Infosys Course completion certificate.pdf](https://github.com/user-attachments/files/21328907/Infosys.Course.completion.certificate.pdf)
+
+
+
