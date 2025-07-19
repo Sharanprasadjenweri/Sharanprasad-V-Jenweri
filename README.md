@@ -21,3 +21,7 @@ Languages and Tools
 # Contact
 - Kalaburagi , Karnataka
 - Email : sjenweri@gmail.com
+
+# Certificates
+- Infosys Springboard Python Course
+- 
