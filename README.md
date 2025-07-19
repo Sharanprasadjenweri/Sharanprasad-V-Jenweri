@@ -24,7 +24,7 @@ Languages and Tools
 
 # Certificates
 - Infosys Springboard Python Course
-- [Infosys Course completion certificate.pdf](file:///C:/Users/HP/Downloads/Infosys%20Course%20completion%20certificate%20(1).pdf")
+- [Infosys Course completion certificate.pdf]
 
 
 
