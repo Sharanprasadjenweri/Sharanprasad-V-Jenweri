@@ -24,4 +24,5 @@ Languages and Tools
 
 # Certificates
 - Infosys Springboard Python Course
-- Infosys Course completion certificate.pdf
+- [Infosys Course completion certificate](./
+- Infosys Course completion certificate.pdf)
